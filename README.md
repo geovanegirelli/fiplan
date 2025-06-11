@@ -1,7 +1,14 @@
 # fiplan
 Repositorio do FIPLAN
 
-
-##objetivo
+## objetivo
 
 encher linguiça
+
+## Fluxo de trabalho
+
+```mermaid
+gitGraph
+  commit
+```
+
